@@ -36,15 +36,15 @@
         display: block;
     }
     @media (max-width:640px){
-        padding: 40px 0;
+        padding: 20px 0;
 
         &__logo{
             height: 40px;
         }
         &__text{
-            font-size: 22px;
+            font-size: 18px;
             line-height: 24px;
-            margin: 24px;
+            margin: 22px;
         }
     }
 }
